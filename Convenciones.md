@@ -1,10 +1,11 @@
+# Docu
 # Convención de Commits
 
 Utilizamos la siguiente convención para mantener un historial de commits claro, coherente y útil:
 
 ```
 <tipo>[alcance opcional]: <mensaje corto>
-
+ 
 [Descripción más larga opcional]
 ```
 
